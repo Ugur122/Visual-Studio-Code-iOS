@@ -31,8 +31,6 @@ The main goal of this project is to provide a flexible editor architecture where
 
 ## 📸 Screenshots
 
-> Add your screenshots to the repository and update the paths below.
-
 ### Editor Overview
 ![Editor Overview](editor.png)
 
