@@ -18,6 +18,8 @@ The main goal of this project is to provide a flexible editor architecture where
 - 📑 Line Numbers
 - 🧩 Modular Editor Architecture
 - 🍎 Built for iPhones with SwiftUI
+- 📋 No ADS
+- 💵 Completely free
 
 ---
 
