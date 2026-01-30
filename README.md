@@ -21,6 +21,12 @@ The main goal of this project is to provide a flexible editor architecture where
 
 ---
 
+## Required Things
+
+- Any iPhone with iOS 26+
+
+---
+
 ## 📸 Screenshots
 
 > Add your screenshots to the repository and update the paths below.
