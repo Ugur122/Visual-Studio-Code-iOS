@@ -26,16 +26,16 @@ The main goal of this project is to provide a flexible editor architecture where
 > Add your screenshots to the repository and update the paths below.
 
 ### Editor Overview
-![Editor Overview](screenshots/editor.png)
+![Editor Overview](editor.png)
 
 ### Plugin Manager
-![Plugin Manager](screenshots/plugins.png)
+![Plugin Manager](plugins.png)
 
 ### Toolbar Shortcuts
-![Toolbar Shortcuts](screenshots/toolbar.png)
+![Toolbar Shortcuts](toolbar.png)
 
 ### Extension Info View
-![Extension Info](screenshots/extension-info.png)
+![Extension Info](extension-info.png)
 
 ---
 
